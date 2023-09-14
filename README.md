@@ -4,7 +4,7 @@ This is a docker react application that extracts code from https://github.com/Ma
 
 # HOW TO RUN
 
-To Build : docker build -t react .
-To Run : docker run -p 3000:3000 react
+TO BUILD THE IMAGE : ( docker build -t react . )
+TO RUN THE IMAGE : ( docker run -p 3000:3000 react )
 
 
